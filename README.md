@@ -84,6 +84,7 @@ You are missing some information such as the name of the stations so It would be
 
 # PROCESS
 For this project I am going to use Jupyter notebook to combine all the datasets into one dataset and perform data cleaning and manipulation.
+**cleaning**
 
 # ANALYZE
 
