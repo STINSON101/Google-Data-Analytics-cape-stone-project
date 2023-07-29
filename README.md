@@ -84,10 +84,21 @@ You are missing some information such as the name of the stations so It would be
 
 # PROCESS
 For this project I am going to use Jupyter notebook to combine all the datasets into one dataset and perform data cleaning and manipulation.
+We are using jupyter notebook as it is a large file conataining more than 50000000 rows which is not possible to read using excel. 
 
-**Preparation**
-I imported all the files and combined them into one single dataset so that it will be easy to explore later. [link]()
+I combined all the datasets using **concat()** function.
 
+To better understand the data structure I used the **info()** function to get the following summary about the dataframe:
+1. dataset contained a combination of numerical, textual and categorial data types.
+2. It contained 5859061 observations and 16 columns namely(ride_id, rideable_type, started_at, ended_at,	start_station_name, start_station_id, end_station_name,	 
+   end_station_id, start_lat,	start_lng,	end_lat,	end_lng,	member_casual,	ride_length, day_of_week)
+3. Datatypes: floats64 = 4, int64 = 1, object = 11.
+   
+I started to clean and manipulate the dataset:
+1. I changed the datatype of (started at and ended at) from object to datetime.
+2. Created 3 new column: year, month, weekday.
+3. Removed column which were not required.
+4. Made sure the dataset didn't contained any null values by using the dropna() function. [LINK]()
 
 # ANALYZE
 
