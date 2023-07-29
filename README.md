@@ -98,7 +98,9 @@ I started to clean and manipulate the dataset:
 1. I changed the datatype of (started at and ended at) from object to datetime.
 2. Created 3 new column: year, month, weekday.
 3. Removed column which were not required.
-4. Made sure the dataset didn't contained any null values by using the dropna() function. [LINK]()
+4. Made sure the dataset didn't contained any null values by using the dropna() function.
+   
+ **FILE:**  [LINK](https://github.com/STINSON101/Google-Data-Analytics-cape-stone-project/blob/main/CYCLISTIC%20(Google%20Data%20Analytics%20Capestone%20project).ipynb)
 
 # ANALYZE
 
