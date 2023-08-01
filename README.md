@@ -102,6 +102,37 @@ I started to clean and manipulate the dataset:
    
  **FILE:**  [LINK](https://github.com/STINSON101/Google-Data-Analytics-cape-stone-project/blob/main/CYCLISTIC%20(Google%20Data%20Analytics%20Capestone%20project).ipynb)
 
-# ANALYZE
+# ANALYZE AND SHARE
+**Descriptive Analysis:**
+We'll conduct descriptive analysis, which helps understand the central tendencies and distribution of the data. This provides an overview of the patterns and trends within the data and can reveal surprising insights. [click here](https://github.com/STINSON101/Google-Data-Analytics-cape-stone-project/blob/main/CYCLISTIC%20(Google%20Data%20Analytics%20Capestone%20project).ipynb)
 
-# SHARE
+**Identifying Trends and Relationships:**
+In this step, we'll identify key trends, patterns, and relationships between different variables in our data. This may involve looking at correlations between variables, analyzing patterns over time, or identifying factors that influence a particular outcome. with help of tableau we have created visuals to better understand and identify patterns and trends to view [click here](https://public.tableau.com/views/CyclisticGoogledataAnalyticsproject/membershipdistribution?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?**
+
+1. As we can see in the first pie chart it shows membership distribution of annal member and casual rider, we can see that majority of bike users are Annual member which covers **60.73%** and **39.27%** of casual riders.
+2. In the bar chart we identify a trend that shows us monthly ride trend by the bike users, we can see that in the month of august annual member recorded highest number of rides and in the month of july casual members recorded the highest.
+3. Third chart shows us the frequency of rides by weekdays by annual members and casual riders, we can see that the casual riders ride more during the weekends and the annual members ride during the week days, mostly the peak days are tuesday, wednesday, thursday for annual members and saturday and sunday for casual riders.
+4. In the 4th chart we can gain insgihts relating to member type and the bike type they use for ride, w can observe that annual members use classic bikes more over electirc bikes but none use docked bikes. on the other hand casual riders all types of bike but majority use classic and than electricm thirdly electric.
+5. In the 5th chart we are going to observe the weekly trend of the user type according to which type of bike they use, we see that both the users use classic bike more than electric bikes.
+
+     ![Dashboard 1](https://github.com/STINSON101/Google-Data-Analytics-cape-stone-project/assets/129893981/0147bfd7-98d8-416d-a2ac-07417f921a8f)
+![Cyclistic (1)](https://github.com/STINSON101/Google-Data-Analytics-cape-stone-project/assets/129893981/afdd55a3-760d-455b-a3f0-82c1a0552526)
+![cyclistic (2)](https://github.com/STINSON101/Google-Data-Analytics-cape-stone-project/assets/129893981/a9a73f2e-c867-43e7-b3c1-c58b0fa355f2)
+
+
+# Act
+Now that we have finished creating visualizations, lets act on our findings. 
+
+**Guiding questions**
+
+**1. What is your final conclusion based on your analysis?**
+
+Casual riders most active time of the year is period from April to October
+Casual riders prefer to use bikes on Weekends
+Casual riders amke use of all bike types.
+   
+**2. How could your team and business apply your insights?**
+
+Let's make recommendations based on the analysis.To convert more casual riders to members we would recommend **creating new types of memberships.** It can be season membership from April to October or opportunity to free use annual membership for a few months in a year. I would also suggest giving premium privilges to annual members so that it can bring a sense of importance of annual membeship to casual riders.
